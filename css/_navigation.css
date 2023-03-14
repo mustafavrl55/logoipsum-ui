@@ -1,0 +1,27 @@
+.navigation{
+    margin-left: 50px;
+}
+.navigation .navigation-list{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-right: -25px;
+    margin-left: -25px;
+}
+.navigation .navigation-list .navigation-item{
+    padding-right: 25px;
+    padding-left: 25px;
+    
+}
+.navigation .navigation-list .navigation-item.active{
+    margin-left: 280px;
+    
+}
+.navigation .navigation-list .navigation-item .navigation-link{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #001A49;
+    display: block;
+    font-style: normal;
+}

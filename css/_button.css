@@ -1,0 +1,19 @@
+.button{
+    background: linear-gradient(44.11deg, #CD10FF 15.75%, #9F06FF 84.63%);
+    border-radius: 33px;
+    padding: 15px 30px;
+    text-align: center;
+    color: #ffff;
+}
+
+.blue-button{
+    color: #ffff;
+    margin-right: 50px;
+}
+
+.hero-button    {
+   
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
